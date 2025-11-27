@@ -26,5 +26,6 @@
   * Make sure not to leave imports of unnecessary Python packages
     because the virtual machine supports only numpy. If you need a
     package, ask me to include it.
-  * I will call your function `solve_system`.
+  * I will call your function `solve_system` and check the returned
+    values against my code.
   
