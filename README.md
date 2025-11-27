@@ -15,6 +15,7 @@
   * Modify the Python wrapper to accept a keyword parameter `scale`
     and pass it to C code.
   * Modify `main.c` so that the C code driver does not crash. I will check!
+  * Change documentation to reflect the code modification
 
 
 
