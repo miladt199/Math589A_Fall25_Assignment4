@@ -6,10 +6,9 @@ int main(void)
     double x1, x2;
     int iters;
 
-    // initial guess
     double x1_0   = 0.5;
     double x2_0   = 0.5;
-    double scale  = 0.1;    // same as original hard-coded value
+    double scale  = 0.1;
     double tol    = 1e-6;
     int    max_it = 1000;
 
